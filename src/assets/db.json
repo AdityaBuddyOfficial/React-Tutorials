@@ -1,0 +1,27 @@
+{
+    "Posts": [
+        {
+            "title": "Post 1",
+            "body": "Some random post",
+            "userId": 101,
+            "id": 1
+        },
+        {
+            "title": "Post 2",
+            "body": "Some random post 2",
+            "userId": 102,
+            "id": 2
+        },
+        {
+            "title": "Post 3",
+            "body": "Some random post 3",
+            "userId": 103,
+            "id": 3
+        }, {
+            "title": "Post 4",
+            "body": "Some random post 4",
+            "userId": 104,
+            "id": 4
+        }
+    ]
+}
