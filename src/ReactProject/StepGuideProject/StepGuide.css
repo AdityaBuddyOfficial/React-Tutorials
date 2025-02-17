@@ -1,0 +1,11 @@
+.active{
+    width:30px;
+    background-color:#7950f2;
+    border-radius:50%;  
+}
+
+.unactive{
+    width:30px;
+    background-color:grey;
+    border-radius:50%;  
+}

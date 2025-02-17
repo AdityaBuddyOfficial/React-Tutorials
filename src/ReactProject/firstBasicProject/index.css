@@ -1,0 +1,24 @@
+.box-border{
+    width: 25em;
+    height: auto;
+    border:2px solid red
+}
+
+.name{
+    color: red;
+    font-size: larger;
+}
+
+.para{
+    color: green;
+    font-size: small;
+}
+
+.skillbox{
+    border: 2px solid yellow;
+    width: 40%;
+    /* display:flex; */
+    justify-content: center;
+    
+
+}
