@@ -29,6 +29,7 @@ function handleNext(){
 
   return (
     <div>
+      <div><button>&times;</button></div>
       <div style={{display:"flex",justifyContent:"space-evenly"}}>
 <div className={step===1?"active":"unactive"}>1</div>
 <div className={step===2?"active":"unactive"}>2</div>

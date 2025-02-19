@@ -14,6 +14,7 @@ import './App.css'
 // import Destructuring from './reactTopics/destructuring';
 import SimpleCartWithSkills from './ReactProject/firstBasicProject/simpleCartWithSkills';
 import StepGuide from './ReactProject/StepGuideProject/stepGuide';
+import FlashCard from './ReactProject/FlashCard/flashCard';
 
 
 function App() { 
@@ -51,7 +52,8 @@ function App() {
     {/* <ToDoApp /> */}
     {/* <Destructuring/> */}
     {/* <SimpleCartWithSkills/> */}
-    <StepGuide/>
+    {/* <StepGuide/> */}
+    <FlashCard/> 
     </>
     
   )
